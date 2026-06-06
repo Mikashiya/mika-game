@@ -1,0 +1,22 @@
+{
+    "characters": [
+        {
+            "role": "Tank",
+            "hp": 1000,
+            "attack": 400,
+            "defence": 800
+        },
+        {
+            "role": "Fighter",
+            "hp": 700,
+            "attack": 800,
+            "defence": 500
+        },
+        {
+            "role": "Mage",
+            "hp": 400,
+            "attack": 1000,
+            "defence": 300
+        }
+    ]
+}
