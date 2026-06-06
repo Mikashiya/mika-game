@@ -1,0 +1,11 @@
+{
+    "items": {
+        "Sentinel": {"hp": 500, "defence": 500},
+        "Primodial": {"hp": 500, "defence": 500}
+    },
+    "classes": {
+        "Tank": {
+            "Helmet": ["Sentinel", "Primodial"]
+        }
+    }
+}
